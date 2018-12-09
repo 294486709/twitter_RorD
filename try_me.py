@@ -9,10 +9,10 @@ NUM_FEATRUE = 300
 import tweepy
 
 #Get your Twitter API credentials and enter them here
-consumer_key = "4hUr37fLwD2zu7YjWSNq9w4Ll"
-consumer_secret = "Xy8e34CLK08rKTknbLKDztyichb91wZXpGxfyjzHzZayujPXx8"
-access_key = "999665527529398272-8SUtP1eGmJk66zhUTfP9dBFiu1XS4hy"
-access_secret = "yupPoacDyRfJij2ffiXAkmhZwkXmZtzX8PbdcYEgRKNu5"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 #method to get a user's last 100 tweets
